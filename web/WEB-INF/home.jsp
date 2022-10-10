@@ -15,6 +15,6 @@
         <h1>Home Page</h1>
         <strong>Hello ${username}. </strong>
         <br>
-        <a href="logout">logout</a>
+        <a href="login?logout" name="logout" value="logout">Logout</a>
     </body>
 </html>
